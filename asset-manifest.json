@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-adder/static/css/main.2875bf4e.css",
+    "main.js": "/react-adder/static/js/main.f318e3b2.js",
+    "static/js/787.924567e0.chunk.js": "/react-adder/static/js/787.924567e0.chunk.js",
+    "index.html": "/react-adder/index.html",
+    "main.2875bf4e.css.map": "/react-adder/static/css/main.2875bf4e.css.map",
+    "main.f318e3b2.js.map": "/react-adder/static/js/main.f318e3b2.js.map",
+    "787.924567e0.chunk.js.map": "/react-adder/static/js/787.924567e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2875bf4e.css",
+    "static/js/main.f318e3b2.js"
+  ]
+}
